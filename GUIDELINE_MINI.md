@@ -6,10 +6,10 @@
 
 | Lớp | Định nghĩa của bạn | Ví dụ/điểm phân biệt |
 | --- | --- | --- |
-| `car` | | |
-| `truck` | | |
-| `bus` | | |
-| `van` | | |
+| `car` |Thường có 4 bánh, kích thước nhỏ |Sedan, hatchback, SUV, coupe |
+| `truck` |Thường có thùng hoặc khoang chở hàng phía sau cabin |Xe tải thùng, xe ben, xe đầu kéo |
+| `bus` |Kích thước lớn, thường có 6 bánh, thường có nhiều cửa sổ |Xe buýt, xe khách |
+| `van` |Thân xe cao và khoang phía sau liền với cabin, nhỏ hơn bus |Minivan, cargo van |
 
 ## Quy tắc chung
 
