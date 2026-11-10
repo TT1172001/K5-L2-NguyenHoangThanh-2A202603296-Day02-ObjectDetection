@@ -3,7 +3,7 @@
 ## 1. Thông tin học viên
 
 - Họ tên: Nguyễn Hoàng Thành
-- MSSV: 2A202604058
+- MSSV: 2A202603296
 - Email: 26ai.thanhnh4@vinuni.edu.vn
 - Lớp: K5-L2
 - Link repo bài làm: https://github.com/TT1172001/K5-L2-NguyenHoangThanh-2A202603296-Day02-ObjectDetection
